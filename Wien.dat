@@ -1,8 +1,8 @@
-11035 Wien Observations at 12Z 09 Jul 2018
------------------------------------------------------------------------------
-   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
-    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
------------------------------------------------------------------------------
+#11035 Wien Observations at 12Z 09 Jul 2018
+#-----------------------------------------------------------------------------
+#   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+#    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+#-----------------------------------------------------------------------------
  1000.0    145                                                               
   994.0    200   27.2   11.2     37   8.47    340      4  300.9  326.2  302.4
   986.0    271   23.8   10.8     44   8.31    332      5  298.1  322.7  299.6
@@ -113,33 +113,34 @@
    10.0  31750  -35.7  -78.7      0   0.08     90     31  885.1  886.2  885.2
     9.0  32486  -34.7  -78.1      0   0.10     80     39  916.2  917.5  916.2
     8.0  33308  -33.5  -77.5      0   0.12                952.1  953.9  952.2
-Station information and sounding indices
-                             Station number: 11035
-                           Observation time: 180709/1200
-                           Station latitude: 48.25
-                          Station longitude: 16.36
-                          Station elevation: 200.0
-                            Showalter index: 1.43
-                               Lifted index: 1.14
-    LIFT computed using virtual temperature: 0.84
-                                SWEAT index: 140.11
-                                    K index: 29.80
-                         Cross totals index: 22.10
-                      Vertical totals index: 25.10
-                        Totals totals index: 47.20
-      Convective Available Potential Energy: 90.21
-             CAPE using virtual temperature: 116.18
-                      Convective Inhibition: -2.00
-             CINS using virtual temperature: -2.33
-                           Equilibrum Level: 605.66
- Equilibrum Level using virtual temperature: 594.50
-                   Level of Free Convection: 808.03
-             LFCT using virtual temperature: 808.03
-                     Bulk Richardson Number: 15.23
-          Bulk Richardson Number using CAPV: 19.61
-  Temp [K] of the Lifted Condensation Level: 281.03
-Pres [hPa] of the Lifted Condensation Level: 808.03
-     Mean mixed layer potential temperature: 298.70
-              Mean mixed layer mixing ratio: 8.34
-              1000 hPa to 500 hPa thickness: 5615.00
-Precipitable water [mm] for entire sounding: 27.03
+
+#Station information and sounding indices
+#                             Station number: 11035
+#                           Observation time: 180709/1200
+#                           Station latitude: 48.25
+#                          Station longitude: 16.36
+#                          Station elevation: 200.0
+#                            Showalter index: 1.43
+#                               Lifted index: 1.14
+#    LIFT computed using virtual temperature: 0.84
+#                                SWEAT index: 140.11
+#                                    K index: 29.80
+#                         Cross totals index: 22.10
+#                      Vertical totals index: 25.10
+#                        Totals totals index: 47.20
+#      Convective Available Potential Energy: 90.21
+#             CAPE using virtual temperature: 116.18
+#                      Convective Inhibition: -2.00
+#             CINS using virtual temperature: -2.33
+#                           Equilibrum Level: 605.66
+# Equilibrum Level using virtual temperature: 594.50
+#                   Level of Free Convection: 808.03
+#             LFCT using virtual temperature: 808.03
+#                     Bulk Richardson Number: 15.23
+#          Bulk Richardson Number using CAPV: 19.61
+#  Temp [K] of the Lifted Condensation Level: 281.03
+#Pres [hPa] of the Lifted Condensation Level: 808.03
+#     Mean mixed layer potential temperature: 298.70
+#              Mean mixed layer mixing ratio: 8.34
+#              1000 hPa to 500 hPa thickness: 5615.00
+#Precipitable water [mm] for entire sounding: 27.03
